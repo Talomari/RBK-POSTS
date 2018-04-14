@@ -1,0 +1,23 @@
+{
+  "name": "rbk-posts",
+  "version": "1.0.0",
+  "description": "application that let the students share there posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talomari/RBK-POSTS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talomari/RBK-POSTS/issues"
+  },
+  "homepage": "https://github.com/Talomari/RBK-POSTS#readme",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "express": "^4.16.3"
+  }
+}
